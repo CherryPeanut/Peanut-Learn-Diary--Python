@@ -197,7 +197,7 @@ $ python3 xxx.py
 
 在 python 解释器中，按热键 `ctrl + d` 可以退出解释器
 
-![001_积跬步以至千里](media/14950456888393/001_%E7%A7%AF%E8%B7%AC%E6%AD%A5%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C.jpg)
+
 
 #### 3) IPython
 
