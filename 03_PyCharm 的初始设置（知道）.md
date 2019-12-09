@@ -36,7 +36,7 @@ $ rm -r ~/.PyCharm2016.3
 * 在第一次启动 `PyCharm` 时，会首先提示用户是否导入 **之前的配置信息**
 * 如果是第一次使用，直接点击 **OK** 按钮
 
-![001_PyCharm导入配置信息-w603](media/14950463298537/001_PyCharm%E5%AF%BC%E5%85%A5%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
+![001_PyCharm导入配置信息-w603](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/001_PyCharm%E5%AF%BC%E5%85%A5%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF.png)
 
 ### 2.2 选择许可协议
 
@@ -45,19 +45,19 @@ $ rm -r ~/.PyCharm2016.3
     * 下载地址是：https://www.jetbrains.com/pycharm-edu/download/#section=linux
 * 商业版本会提示输入注册信息，或者选择免费评估
 
-![002_激活许可证-w495](media/14950463298537/002_%E6%BF%80%E6%B4%BB%E8%AE%B8%E5%8F%AF%E8%AF%81.png)
+![002_激活许可证-w495](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/002_%E6%BF%80%E6%B4%BB%E8%AE%B8%E5%8F%AF%E8%AF%81.png)
 
 ### 2.3 PyCharm 的配置初始界面
 
 * 在初始配置界面，可以通过 `Editor colors and fonts` 选择 **编辑器的配色方案**
 
-![003_PyCharm初始配置界面-w491](media/14950463298537/003_PyCharm%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.png)
+![003_PyCharm初始配置界面-w491](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/003_PyCharm%E5%88%9D%E5%A7%8B%E9%85%8D%E7%BD%AE%E7%95%8C%E9%9D%A2.png)
 
 ### 2.4 欢迎界面
 
 * 所有基础配置工作结束之后，就可以看到 `PyCharm` 的 **欢迎界面**了，通过 **欢迎界面** 就可以开始开发 Python 项目了
 
-![004_PyCharm欢迎页面-w664](media/14950463298537/004_PyCharm%E6%AC%A2%E8%BF%8E%E9%A1%B5%E9%9D%A2.png)
+![004_PyCharm欢迎页面-w664](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/004_PyCharm%E6%AC%A2%E8%BF%8E%E9%A1%B5%E9%9D%A2.png)
 
 ## 03. 新建/打开一个 Python 项目
 
@@ -73,14 +73,14 @@ $ rm -r ~/.PyCharm2016.3
 * 打开之后，会在目录下新建一个 `.idea` 的目录，用于保存 **项目相关的信息**，例如：**解释器版本**、**项目包含的文件**等等
 * 第一次打开项目，需要耐心等待 `PyCharm` 对项目**进行初始设置**
 
-![005_打开已有Python项目-w423](media/14950463298537/005_%E6%89%93%E5%BC%80%E5%B7%B2%E6%9C%89Python%E9%A1%B9%E7%9B%AE.png)
+![005_打开已有Python项目-w423](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/005_%E6%89%93%E5%BC%80%E5%B7%B2%E6%9C%89Python%E9%A1%B9%E7%9B%AE.png)
 
 #### 设置项目使用的解释器版本
 
 * 打开的目录如果不是由 `PyCharm` 建立的项目目录，**有的时候** 使用的解释器版本是 `Python 2.x` 的，需要**单独设置解释器的版本**
 * 通过 **File** / **Settings...** 可以打开设置窗口，如下图所示：
 
-![006_选择项目的解释器版本-w975](media/14950463298537/006_%E9%80%89%E6%8B%A9%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%A7%A3%E9%87%8A%E5%99%A8%E7%89%88%E6%9C%AC.png)
+![006_选择项目的解释器版本-w975](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/006_%E9%80%89%E6%8B%A9%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%A7%A3%E9%87%8A%E5%99%A8%E7%89%88%E6%9C%AC.png)
 
 ### 3.3 新建项目
 
@@ -105,9 +105,9 @@ $ rm -r ~/.PyCharm2016.3
 
 ## 04. 设置 PyCharm 的字体显示
 
-![007_PyCharm设置编辑器字体-w500](media/14950463298537/007_PyCharm%E8%AE%BE%E7%BD%AE%E7%BC%96%E8%BE%91%E5%99%A8%E5%AD%97%E4%BD%93.png)
+![007_PyCharm设置编辑器字体-w500](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/007_PyCharm%E8%AE%BE%E7%BD%AE%E7%BC%96%E8%BE%91%E5%99%A8%E5%AD%97%E4%BD%93.png)
 
-![008_PyCharm设置控制台字体-w500](media/14950463298537/008_PyCharm%E8%AE%BE%E7%BD%AE%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%AD%97%E4%BD%93.png)
+![008_PyCharm设置控制台字体-w500](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/008_PyCharm%E8%AE%BE%E7%BD%AE%E6%8E%A7%E5%88%B6%E5%8F%B0%E5%AD%97%E4%BD%93.png)
 
 ## 05. PyCharm 的升级以及其他
 
@@ -149,7 +149,7 @@ $ ./pycharm.sh
 * 在**专业版**中，选择菜单 **Tools** / **Create Desktop Entry...** 可以设置任务栏启动图标
     * 注意：设置图标时，需要勾选 `Create the entry for all users`
 
-![009_创建桌面图标-w657](media/14950463298537/009_%E5%88%9B%E5%BB%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
+![009_创建桌面图标-w657](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/009_%E5%88%9B%E5%BB%BA%E6%A1%8C%E9%9D%A2%E5%9B%BE%E6%A0%87.png)
 
 ### 5.3 卸载之前版本的 PyCharm 
 
