@@ -258,7 +258,7 @@ $ sudo apt install ipython
 
 ### 3）PyCharm 快速体验
 
-![001_PyCharm的界面结构](media/14950456888393/001_PyCharm%E7%9A%84%E7%95%8C%E9%9D%A2%E7%BB%93%E6%9E%84.png)
+![001_PyCharm的界面结构](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/001_PyCharm%E7%9A%84%E7%95%8C%E9%9D%A2%E7%BB%93%E6%9E%84.png)
 
 * **文件导航区域** 能够 **浏览**／**定位**／**打开** 项目文件
 * **文件编辑区域** 能够 **编辑** 当前打开的文件
@@ -267,11 +267,11 @@ $ sudo apt install ipython
     * 跟踪调试代码的执行
 * 右上角的 **工具栏** 能够 **执行(SHIFT + F10)** / **调试(SHIFT + F9)** 代码
 
-![002_PyCharm运行工具栏](media/14950456888393/002_PyCharm%E8%BF%90%E8%A1%8C%E5%B7%A5%E5%85%B7%E6%A0%8F.png)
+![002_PyCharm运行工具栏](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/002_PyCharm%E8%BF%90%E8%A1%8C%E5%B7%A5%E5%85%B7%E6%A0%8F.png)
 
 * 通过控制台上方的**单步执行按钮(F8)**，可以单步执行代码
 
-![003_PyCharm调试器](media/14950456888393/003_PyCharm%E8%B0%83%E8%AF%95%E5%99%A8.png)
+![003_PyCharm调试器](https://github.com/CherryPeanut/Peanut-Learn-Diary--Python/blob/master/%E5%9B%BE%E7%89%87%E8%B5%84%E6%96%99/003_PyCharm%E8%B0%83%E8%AF%95%E5%99%A8.png)
 
 
 
